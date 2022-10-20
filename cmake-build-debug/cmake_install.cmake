@@ -1,4 +1,4 @@
-# Install script for directory: D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview
+# Install script for directory: C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

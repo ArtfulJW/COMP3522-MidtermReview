@@ -1,3 +1,3 @@
-D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview/cmake-build-debug/CMakeFiles/MidtermReview.dir
-D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview/cmake-build-debug/CMakeFiles/MidtermReview.dir
+C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview/cmake-build-debug/CMakeFiles/rebuild_cache.dir

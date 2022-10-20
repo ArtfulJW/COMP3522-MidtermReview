@@ -91,11 +91,11 @@ void copyText(std::string fileName){
     outputFile.close();
 }
 
-int main() {
-
-    copyText("words.txt");
-    fileTokenize("output.txt");
-
-
-    return 0;
-}
+//int main() {
+//
+//    copyText("words.txt");
+//    fileTokenize("output.txt");
+//
+//
+//    return 0;
+//}

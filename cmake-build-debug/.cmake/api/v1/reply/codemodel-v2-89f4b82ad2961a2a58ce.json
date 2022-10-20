@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MidtermReview::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MidtermReview-Debug-f2bd50f9facf7cf38f0a.json",
+					"jsonFile" : "target-MidtermReview-Debug-aba8d992587e1f190226.json",
 					"name" : "MidtermReview",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview/cmake-build-debug",
-		"source" : "D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview"
+		"build" : "C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview/cmake-build-debug",
+		"source" : "C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview"
 	},
 	"version" : 
 	{

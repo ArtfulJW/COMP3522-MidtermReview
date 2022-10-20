@@ -49,6 +49,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2021.3.2/bin/cmake/win/share/cmake-3.21/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2021.3.2/bin/cmake/win/share/cmake-3.21/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2021.3.2/bin/cmake/win/share/cmake-3.21/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Program Files/JetBrains/CLion 2021.3.2/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -149,8 +164,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview/cmake-build-debug",
-		"source" : "D:/BCIT/BCIT-Level-3/COMP-3522/Midterm-Review/MidtermReview"
+		"build" : "C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview/cmake-build-debug",
+		"source" : "C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3522/Midterm-Review/COMP3522-MidtermReview"
 	},
 	"version" : 
 	{
